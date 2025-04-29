@@ -1,0 +1,2 @@
+# AIKDT_DB
+AIKDT_DB 수업
