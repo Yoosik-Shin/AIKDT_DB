@@ -64,7 +64,7 @@ FROM employees
 WHERE hire_date >= '1995-01-01'
   AND birth_date < '1960-01-01';
 
--- 성별이 남자인 시원들과 이름이 'Dante' 인 사원을 모두 조회하시오.
+-- 성별이 남자인 사원들과 이름이 'Dante' 인 사원을 모두 조회하시오.
 SELECT *
 FROM employees
 WHERE gender = 'M'
